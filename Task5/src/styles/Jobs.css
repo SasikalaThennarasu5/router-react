@@ -1,0 +1,15 @@
+.jobs-container {
+  padding: 2rem;
+}
+
+.job-list {
+  display: grid;
+  gap: 1rem;
+}
+
+.job-card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 6px;
+  background: #f9f9f9;
+}
