@@ -1,0 +1,1 @@
+export default () => <div style={{padding:'1rem'}}><h2>Contacts Page</h2></div>;
